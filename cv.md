@@ -18,3 +18,18 @@ I have been working as a barrier for two years, but I decided to completely chan
 * 🏆Git, GitHub
 * 🏆VS Code
 * 🏆Adobe Photoshop
+
+## My Code:
+![code](https://schtirlitz.ru/800/600/https/d2halst20r4hcy.cloudfront.net/253/25c62/a303/458a/b175/e762d42846cd/original/4754293.png)
+
+## Languages:
+* 📍English - Pre-Intermediate
+* 📍Russian - Proficiency
+* 📍Polish - Basic
+
+## My work experience
+<p>At the moment, my skills are Junior Dev. I did the assignment only on STAGE 0 at my RS-School</p>
+
+## Education:
+* 📚RS Schools Course «JavaScript/Front-end. Stage 0»
+* 📚Belarusian National Technical University
